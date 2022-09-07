@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: darkorange;
+    --secondary: rgb(118, 10, 114);
+    --background: gray;
+    --text: black;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+.card-header {
+    background-color: var(--primary);
+    color: var(--secondary);
+    box-shadow: 3px 3px 5px var(--primary);
+}
+
+.card-body {
+    background-color: var(--background);
+    color: var(--text);
+    box-shadow: 3px 3px 5px var(--primary);
+}
+
+.card-body p {
+    border: solid 1px black;
+    margin: 0;
+    padding: 1.5em;
+    background-color: white;
+}
+
+.card-body a {
+    color: var(--primary);
+}
+.card-body a:hover {
+    color: var(--secondary);
+    text-decoration: none;
+    text-shadow: 1px 1px 2px black;
+}
+
+#title {
+    background-color: var(--primary);
+    color: var(--secondary);
+    font-size: 50px;
+}
+
+.team-title {
+    font-size: 50px;
+}

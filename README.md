@@ -35,6 +35,10 @@
     
   [JakMcCarthy](https://github.com/JakMcCarthy);
 
+ ## Screnshot
+ 
+ ![Screenshot (132)](https://user-images.githubusercontent.com/90810973/189012670-6f5eaf08-384a-4700-a16e-a240f93f62d2.png)
+
  ## Demo Video
 
   https://drive.google.com/file/d/1pWz_ZK7Pj5CKVLB2GNVh3s2AG_0HGGeQ/view

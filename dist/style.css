@@ -3,8 +3,8 @@
 }
 
 :root {
-    --primary: darkorange;
-    --secondary: rgb(118, 10, 114);
+    --primary: rgb(0, 204, 255);
+    --secondary: rgb(209, 50, 204);
     --background: gray;
     --text: black;
 }

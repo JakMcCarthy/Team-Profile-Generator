@@ -34,11 +34,6 @@
   ## GitHub Name
     
     [JakMcCarthy](https://github.com/JakMcCarthy);
-  
-  ##Screenshot
-
-    ![](../../../Pictures/Screenshots/Screenshot%20(132).png)
-
 
  ## Demo Video
 

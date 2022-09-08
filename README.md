@@ -33,15 +33,15 @@
   
   ## GitHub Name
     
-    [JakMcCarthy](https://github.com/JakMcCarthy);
+  [JakMcCarthy](https://github.com/JakMcCarthy);
 
  ## Demo Video
 
-    https://drive.google.com/file/d/1pWz_ZK7Pj5CKVLB2GNVh3s2AG_0HGGeQ/view
+  https://drive.google.com/file/d/1pWz_ZK7Pj5CKVLB2GNVh3s2AG_0HGGeQ/view
 
  ## Study Group
 
-    Jackson, Susan, Chris P., Aaron, Ricky
+  Jackson, Susan, Chris P., Aaron, Ricky
 
  ## Questions
   If you have any questions, please contact the coding team at: 
